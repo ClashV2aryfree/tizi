@@ -41,7 +41,6 @@ vless://e74c23fa-44c0-425e-812d-5e2df4487ced@www.speedtest.net:8880?allowInsecur
 vless://895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.153.179:443?sni=5eR.WWW890604.dPDNS.OrG&alpn=http/1.1&type=ws&host=5er.www890604.dpdns.org&path=/C1SukvGdr58yeduy9AOGfp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B873%20%7C%20%201.9MB/s%7C50%25%7COpenai%7CGem...
 vless://585acd30-52bf-4b70-a537-e13649fafefc@104.21.53.113:443?sni=bBA.890601.pP.UA&alpn=http/1.1&type=ws&host=bba.890601.pp.ua&path=/rU9rSjDSOd4yY2fOefp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B879%20%7C%20%201.7MB/s%7C30%25%7COpenai
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560fp=chrome#3%7C%F0%9F%87%B0%F0%9F%87%B73%20%7C%20%201.3MB/s%7C61%25%7CDisney%7COpen...
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#3%7C%F0%9F%8C%806-CY%20%7C%20%204.9MB/s%7C44%25%7COpenai
 trojan://Aimer@188.164.159.241:2096?allowInsecure=0&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=/?ed=2560#15%7CAM_speednode_0002
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CAU_speednode_0004
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.183:443?allowInsecure=1&sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CBR_speednode_0007
@@ -77,6 +76,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.116:8880?allowInsecure=0
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.214:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRU_speednode_0130
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.56:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRU_speednode_0131
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.88:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRU_speednode_0132
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.84.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#15%7CRU_speednode_0133
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.93:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRU_speednode_0134
 trojan://Aimer@5.182.84.244:443?allowInsecure=0&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=/?ed=2560#15%7CRU_speednode_0137
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.154:8443?allowInsecure=1&sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&path=/?ed=2560security=tls#15%7CSG_speednode_0143
@@ -92,10 +92,12 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.214:80?allowInsecure=0&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.142:80?allowInsecure=1&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0159
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.145:80?allowInsecure=1&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0160
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.17.223.37:443?allowInsecure=1&sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&path=/?ed=2560security=tls#15%7CUS_speednode_0161
+vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@104.16.38.60:80?allowInsecure=1&sni=hidden-river-df80-ppal03.bewome9099.workers.dev&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/#15%7CUS_speednode_0162
 vless://d4eddaf9-a660-4905-b835-cad98677b380@104.16.178.238:80?allowInsecure=1&sni=little-bird-a235-ppal03.fosawaw121.workers.dev&type=ws&host=little-bird-a235-ppal03.fosawaw121.workers.dev&path=/#15%7CUS_speednode_0163
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@167.68.42.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CUS_speednode_0164
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.229.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CUS_speednode_0165
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@kip.ns.cloudflare.com:443?allowInsecure=1&sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&path=/?ed=2560security=tls#15%7CUS_speednode_0166
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@lynn.ns.cloudflare.com:443?allowInsecure=1&sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&path=/?ed=2560security=tls#15%7CUS_speednode_0169
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@209.46.30.20:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CUS_speednode_0170
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.129.164.20:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CUS_speednode_0172
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@155.46.213.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#15%7CUS_speednode_0174
@@ -110,9 +112,9 @@ vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.19.54.50:443?allowInsecure=0&sn
 vless://3f4b57a0-f57c-4a8b-8c00-fa255eec1c79@104.17.252.50:80?allowInsecure=0&sni=us.xyxy.dpdns.org&type=ws&host=us.xyxy.dpdns.org&path=/#15%7CUS_speednode_0204
 vless://55520747-311e-4015-83ce-be46e2060ce3@216.24.57.59:443?allowInsecure=1&sni=xa.bgm2024.dpdns.org&type=ws&host=xa.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CUS_speednode_0206
 vless://2cec2733-389a-46a7-9053-218594a6336d@172.66.47.31:2096?allowInsecure=1&sni=NEwMTproxi.pAgES.DeV&alpn=h2%2Chttp/1.1&type=ws&host=newmtproxi.pages.dev&path=/uOJjESKbBQzLuf8t?ed=2560fp=randomized&security=tls#15%7CUS_speednode_0207
+vless://2cec2733-389a-46a7-9053-218594a6336d@newmtproxi.pages.dev:2087?allowInsecure=1&sni=nEwMTPROxI.PAGes.DEv&alpn=h2%2Chttp/1.1&type=ws&host=newmtproxi.pages.dev&path=/frzapd2v2VXBMkxJ?ed=2560fp=randomized&security=tls#15%7CUS_speednode_0208
 vless://236a00ab-f5c0-4dcf-a453-d795c1fd7e1e@172.66.47.138:443?allowInsecure=0&sni=BEsTiIIiiIiIIIVpN.PAges.dEv&alpn=h2%2Chttp/1.1&type=ws&host=BEsTiIIiiIiIIIVpN.PAges.dEv&path=/DCn52y7EZbW8snBf?ed=2560fp=randomized&security=tls#15%7CUS_speednode_0210
 vless://9f387ad9-043b-40b2-97c5-265d30cbfbf1@172.66.47.100:443?allowInsecure=0&sni=besTiIvPn-6t8.PAGes.DEV&alpn=h2%2Chttp/1.1&type=ws&host=besTiIvPn-6t8.PAGes.DEV&path=/FmuwAIEMEYaRjcUE?ed=2560fp=randomized&security=tls#15%7CUS_speednode_0211
-vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?allowInsecure=0&sni=cr777.rayan.dpdns.org&type=ws&host=cr777.rayan.dpdns.org&path=/fp=chrome&security=tls#15%7CUS_speednode_0221
 vless://6bc29783-3ff6-4379-8650-611a7095307b@104.18.22.235:443?allowInsecure=0&sni=nl1n.yfjc.sbs&type=ws&host=nl1n.yfjc.sbs&path=/yfjc/knl1fp=ios&security=tls#15%7CUS_speednode_0225
 ```
 分享免费VPN
@@ -121,4 +123,4 @@ vless://6bc29783-3ff6-4379-8650-611a7095307b@104.18.22.235:443?allowInsecure=0&s
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-01 13:42:00 
+### 更新时间 2025-06-01 13:50:17 
