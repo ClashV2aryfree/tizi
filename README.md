@@ -66,6 +66,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.86:8880?allowInsecure=0&sn
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.206:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRO_speednode_0053
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.119.75:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRO_speednode_0055
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.116:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRU_speednode_0057
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.84.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#15%7CRU_speednode_0058
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.214:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRU_speednode_0059
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.88:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRU_speednode_0060
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.56:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRU_speednode_0061
@@ -76,6 +77,7 @@ trojan://Aimer@92.53.190.161:2087?allowInsecure=0&sni=epme.ambercc.filegear-sg.m
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.230:80?allowInsecure=1&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0070
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.142:80?allowInsecure=1&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0071
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.207:80?allowInsecure=1&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0072
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.214:80?allowInsecure=0&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0073
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.178:80?allowInsecure=0&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0074
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.153:80?allowInsecure=1&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0075
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.145:80?allowInsecure=1&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0076
@@ -95,4 +97,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@167.68.42.20:8880?allowInsecure=0&s
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-02 15:12:00 
+### 更新时间 2025-06-02 15:19:23 
