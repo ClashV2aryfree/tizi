@@ -22,7 +22,10 @@
 免费节点
 
 ```
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.206:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CRO_speednode_0053
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CLU_speednode_0045
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.84.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#14%7CRU_speednode_0058
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.56:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CRU_speednode_0061
+trojan://Aimer@5.182.84.244:443?allowInsecure=0&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=/?ed=2560#14%7CRU_speednode_0064
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.165.216.20:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CUS_speednode_0087
 ```
 分享免费VPN
@@ -31,4 +34,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.165.216.20:8880?allowInsecure=1
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-03 10:42:00 
+### 更新时间 2025-06-03 10:47:39 
