@@ -30,4 +30,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.20:8880?allowInsecure=1&
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-03 15:46:00 
+### 更新时间 2025-06-03 15:48:00 
