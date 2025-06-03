@@ -22,11 +22,9 @@
 免费节点
 
 ```
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CLU_speednode_0045
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.84.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#14%7CRU_speednode_0058
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.56:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CRU_speednode_0061
-trojan://Aimer@5.182.84.244:443?allowInsecure=0&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=/?ed=2560#14%7CRU_speednode_0064
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.165.216.20:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CUS_speednode_0087
+vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@104.26.14.85:8080?security=none&type=ws&host=J9.oDOtZrHUoO.ZuLAIR.ORg.&encryption=none&type=ws&path=%2F%3Fed%3D2048&sni=J9.oDOtZrHUoO.ZuLAIR.ORg.&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.102:8880?allowInsecure=0&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/#14%7CGB_speednode_0029
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.229.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CUS_speednode_0079
 ```
 分享免费VPN
 * [freevpn](https://github.com/asdsadsddas123/freevpn)
@@ -34,4 +32,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.165.216.20:8880?allowInsecure=1
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-03 12:12:00 
+### 更新时间 2025-06-03 12:17:38 
