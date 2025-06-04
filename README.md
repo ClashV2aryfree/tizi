@@ -48,7 +48,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@57.183.29.51:9898#end-gfw.com@jp19tian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@52.27.47.239:9898#end-gfw.com@us19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@15.165.37.5:9898#end-gfw.com@kr89an
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@52.195.215.158:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.24.19:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@57.183.29.51:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@52.27.47.239:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
@@ -65,4 +64,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi5bqG56Wd5Lqa5Yas5Lya6IOc5Yip5Y+s5byAIiwgImFkZCI6
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-04 11:42:00 
+### 更新时间 2025-06-04 11:44:19 
