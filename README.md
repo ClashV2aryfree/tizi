@@ -66,4 +66,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi5bqG56Wd5Lqa5Yas5Lya6IOc5Yip5Y+s5byAIiwgImFkZCI6
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
-### 更新时间 2025-06-04 09:24:00 
+### 更新时间 2025-06-04 09:26:00 
